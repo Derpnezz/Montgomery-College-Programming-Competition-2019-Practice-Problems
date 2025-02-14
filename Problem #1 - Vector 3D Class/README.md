@@ -30,4 +30,4 @@ Longest vector is (13.6, 9.3, 12.7) of length 20.802
 ```
 
 `Notes: Use the following formula to calculate the length of the vector:
-Square root of (x2 + y2 + z2)`
+Square root of (x^2 + y^2 + z^2)`
